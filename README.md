@@ -1,2 +1,2 @@
-# openlabs-inscrition
+# openlabs-inscription
 App do participante
